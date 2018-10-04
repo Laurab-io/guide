@@ -89,7 +89,7 @@
 }
 
 .fcc_searchBar .ais-Hits {
-  background-color: white;
+  background-color: #fff;
   width: 60%;
 }
 
@@ -281,7 +281,7 @@
 }
 
 .title {
-  background-color: white;
+  background-color: #fff;
   border: none;
   border-radius: 0px;
   cursor: pointer;
@@ -303,7 +303,7 @@
 }
 
 .skip-link {
-    background-color: white;
+    background-color: #fff;
     left: 0;
     padding: 5px 10px;
     top: 0;
